@@ -1,5 +1,5 @@
 # What is this?
-It's just an experiment by using python to cypher an image
+It's just an experiment by using python to cypher an image after learning Image Processing course.
 
 ## What is the cypher method?
 The method is changing the bits of **base_image** to nearest even or odd value according to **to_hide** image which has the same size as the base_image 
